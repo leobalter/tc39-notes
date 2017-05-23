@@ -164,7 +164,7 @@ AWB: So, delete for a nonconfigurable property normally returns false, is that r
 
 BT: Right
 
-AWS: This makes it align with an ordinary object. makes it look like a nonconfigurable property
+AWB: This makes it align with an ordinary object. makes it look like a nonconfigurable property
 
 AK: Yeah, that's what I missed the last time
 

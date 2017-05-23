@@ -492,7 +492,7 @@ ARB: How does this interact with GC?
 
 NM: Works well using nurseries.
 
-AWS: A version of region based collection.
+AWB: A version of region based collection.
 
 
 
@@ -501,7 +501,7 @@ AWS: A version of region based collection.
 
 DH: Straw proposal `Symbol.iterator`, `Symbol.create`
 
-AWS: A single method on Symbol, `Symbol.for('iterator')`
+AWB: A single method on Symbol, `Symbol.for('iterator')`
 
 EA: You can have get and set and use set to register user defined known symbols.
 

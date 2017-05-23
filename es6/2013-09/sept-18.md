@@ -569,7 +569,7 @@ YK: the year might be a red-herring. The point isn't the date and the goal isn't
 
 RWS: (refers to Chrome release process) (not quite Chrome, but close and relevant: https://developers.google.com/v8/launchprocess )
 
-AWS: some of the non-technical overhead can be offloaded
+AWB: some of the non-technical overhead can be offloaded
 
 DL: part of the goal is to help offload the work, getting more people writing more spec text.
 
@@ -607,7 +607,7 @@ WH: not componentizing is good, but want to make sure that the process doesn't g
 
 BE: true.
 
-AWS: if we see things that are tightly linked, we might treat them that way
+AWB: if we see things that are tightly linked, we might treat them that way
 
 RWS: as I said earlier, the committee can choose to merge them
 
